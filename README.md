@@ -3,7 +3,7 @@
 A new Flutter project.
 <li>
 <p>Flutter: Animation Series || Episode 1 || Basic Animation 
-<a href="https://youtu.be/UJVO-H0wfVU" rel="nofollow"><img src="https://pbs.twimg.com/profile_images/1013436760859299847/aQltRN9T.jpg" alt="watch" style="max-width:100%;"></a></p>
+<a href="https://youtu.be/UJVO-H0wfVU" rel="nofollow"><img height="48px width="48px src="https://pbs.twimg.com/profile_images/1013436760859299847/aQltRN9T.jpg" alt="watch" style="max-width:100%;"></a></p>
 </li>
 <h4>1)Dont forget to put api key</h4>
 
