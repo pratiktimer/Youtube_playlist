@@ -52,7 +52,7 @@ class _MyHomePageState extends State<Videos> {
                           onPressed: () {
                             FlutterYoutube.playYoutubeVideoById(
                                 apiKey:
-                                    "put here api key",//dont forget to put key here
+                                    "put youtube key here",//yotube key is important
                                 videoId: id,
                                 autoPlay: true, //default falase
                                 fullScreen: true //default false
