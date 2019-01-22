@@ -1,8 +1,7 @@
 # youtubeclone
 
 A new Flutter project.
-<li>Flutter: Youtube || Playlist || Part 1 
-<a href="https://www.youtube.com/watch?v=4-7WvT4wNNE&t=88s" rel="nofollow"><img height="48px width="48px src="https://pbs.twimg.com/profile_images/1013436760859299847/aQltRN9T.jpg" alt="watch" style="max-width:100%;"></a></p>
+<li>Flutter: Youtube || Playlist || Part 1 <a href="https://www.youtube.com/watch?v=4-7WvT4wNNE&t=88s" rel="nofollow"><img height="48px width="48px src="https://pbs.twimg.com/profile_images/1013436760859299847/aQltRN9T.jpg" alt="watch" style="max-width:100%;"></a></p>
 </li>
 <h4>1)Dont forget to put api key</h4>
 
